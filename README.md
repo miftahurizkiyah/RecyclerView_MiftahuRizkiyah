@@ -11,5 +11,5 @@
 
 ![Hasil_Running](Picture1.png)
 
-![Hasil_Running](pict/Picture2.png)
+![Hasil_Running](Picture2.png)
 
