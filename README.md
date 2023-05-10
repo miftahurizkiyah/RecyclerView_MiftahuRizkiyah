@@ -9,7 +9,7 @@
 
 ***Mata Kuliah : Pemrograman Mobile***
 
-![Hasil_Running](pict/Picture1.png)
+![Hasil_Running](PraktikumAndroid/Picture1.png)
 
 ![Hasil_Running](pict/Picture2.png)
 
