@@ -7,7 +7,7 @@
 ***Mata Kuliah : Pemrograman Mobile*** <br>
 <br>
 
-**Hasil dari RecyclerView :**
+**Hasil running RecyclerView :**
 
 ![Hasil_Running](Picture1.png)
 
